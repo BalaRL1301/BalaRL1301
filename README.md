@@ -13,7 +13,6 @@ I am a **Cyber Security Enthusiast** and a **Penetration Tester** currently purs
 ## 🏆 Achievements
 - Completed over 60 rooms on **TryHackMe**, ranked in the top 9%.
 - Solved 560+ problems on **LeetCode**, with a contest rating of **1610**.
-- Earned an **Ethical Hacking** certification from **NPTEL**.
 
 ## 📬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/bala-r-l/)
