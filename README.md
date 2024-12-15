@@ -8,7 +8,6 @@ I am a **Cyber Security Enthusiast** and a **Penetration Tester** currently purs
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Database**: MySQL
 - **DevOps**: Docker, Jenkins, AWS
-- **Frameworks**: Node.js, Express.js
 
 ## 🏆 Achievements
 - Completed over 60 rooms on **TryHackMe**, ranked in the top 9%.
