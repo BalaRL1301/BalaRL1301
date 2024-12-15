@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Bala R L 👋
 
-<!--
-**BalaRL1301/BalaRL1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cyber Security Enthusiast** and a **Penetration Tester** currently pursuing a Bachelor's in **Computer Science and Engineering**. I have experience in **ethical hacking**, **vulnerability assessment**, and **Networking**.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Java, Python, Rust
+- **Security Tools**: Burp Suite, Wireshark, Metasploit, Nmap
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Database**: MySQL
+- **DevOps**: Docker, Jenkins, AWS
+- **Frameworks**: Node.js, Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- Completed over 60 rooms on **TryHackMe**, ranked in the top 9%.
+- Solved 560+ problems on **LeetCode**, with a contest rating of **1610**.
+- Earned an **Ethical Hacking** certification from **NPTEL**.
+
+## 📬 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/bala-r-l/)
+- [GitHub](https://github.com/BalaRL1301)
+- [Email](mailto:bala13012005@gmail.com)
+
+Looking forward to collaborating and connecting with like-minded people in the tech community!
