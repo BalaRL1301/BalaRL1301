@@ -3,11 +3,11 @@
 I am a **Cyber Security Enthusiast** and a **Penetration Tester** currently pursuing a Bachelor's in **Computer Science and Engineering**. I have experience in **ethical hacking**, **vulnerability assessment**, and **Networking**.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Java, Python, Rust
+- **Languages**: Java, Python, Go
 - **Security Tools**: Burp Suite, Wireshark, Metasploit, Nmap
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Database**: MySQL
-- **DevOps**: Docker, Jenkins, AWS
+- **DevOps**: Docker, AWS
 
 ## 🏆 Achievements
 - Completed over 60 rooms on **TryHackMe**, ranked in the top 9%.
