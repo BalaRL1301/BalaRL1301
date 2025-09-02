@@ -5,7 +5,6 @@ I am a **Cyber Security Enthusiast** and a **Penetration Tester** currently purs
 ## 🔧 Technologies & Tools
 - **Languages**: Java, Python, Go
 - **Security Tools**: Burp Suite, Wireshark, Metasploit, Nmap
-- **Web Technologies**: HTML, CSS, JavaScript
 - **Database**: MySQL
 - **DevOps**: Docker, AWS
 
