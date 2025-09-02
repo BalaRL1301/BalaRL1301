@@ -11,7 +11,7 @@ I am a **Cyber Security Enthusiast** and a **Penetration Tester** currently purs
 ## 🏆 Achievements
 - **CompTIA security+** certified
 - Completed over 60 rooms on **TryHackMe**, ranked in the top 9%.
-- Solved 560+ problems on **LeetCode**, with a contest rating of **1610**.
+- Solved 783 problems on **LeetCode**, with a contest rating of **1610**.
 
 ## 📬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/bala-r-l/)
